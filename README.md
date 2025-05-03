@@ -1,6 +1,3 @@
-![Hand Gesture Game Controller Demo](demo.gif)
-
-
 # ✋🎮 Hand Gesture Game Controller
 
 Control your favorite games using just **hand gestures** captured through your webcam!  
